@@ -59,7 +59,7 @@ class _ProductPageState extends State<ProductPage> {
                                     },
                                     buttonColor: Colors.orange.shade100,
                                     iconColor: Colors.orange,
-                                  ))
+                                  )),
                             ],
                           ),
                         ),
